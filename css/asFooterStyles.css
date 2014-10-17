@@ -1,0 +1,1060 @@
+/* Desktops and laptops ----------- */
+@media only screen 
+and (min-width : 1024px) {
+
+    #asFooterComInfo #asFooterConditionsMob {
+		display: none;
+		}
+	
+	#asFooter #asFooterAddressMob {
+		display: none;		
+		}
+		
+/* Styles */
+}
+
+/* Tablet (landscape) ----------- */
+@media only screen 
+and (min-width : 768px) 
+and (max-width : 1024px) 
+and (orientation : landscape) {
+	
+/* ROW 1 LOGO + LINKS */
+
+	#asFooterLinks #asFooterLogoAs {
+		width: 20% !important;
+		}
+
+	#asFooterLinks ul li {
+		padding: 0;
+		margin: 0 0 4px 0 !important;
+		}
+		
+	#asFooterLinks #asFooterCol1 {
+		width: 30% !important;
+		}
+	
+	#asFooterLinks #asFooterCol2 {
+		width: 30% !important;
+		}
+
+	#asFooterLinks #asFooterSocial {
+		width: 20% !important;
+		}
+		
+	#asFooterLinks #asFooterSocial p {
+		margin: 0 0 0 9px;
+		}
+		
+	#asFooterLinks #asFooterSocial #asFooterSocialIcons a {
+		font-size: 37px;
+		color: #e2dbd3;
+		display: inline-block;
+		margin: 10px 0 0 9px;
+		}
+		
+/* ROW 2 SEO + BE COM */
+
+	#asFooterSeo #asFooterSeoText p {
+		margin: 0 !important;
+		}
+
+/* ROW 3 CONDITIONS + PAYMENTS */
+
+	#asFooterComInfo #asFooterConditions {
+	/*	background-color: yellow;
+	*/	width: 57% !important;
+		}
+		
+	#asFooterComInfo #asFooterConditions ul li a {
+		font-size: 14px !important;
+		line-height: 18px;
+		}
+		
+	#asFooterComInfo #asFooterConditions ul li {
+		float: left;
+		margin: 0 13px 0 0 !important;
+		}
+		
+    #asFooterComInfo #asFooterConditionsMob {
+		display: none;
+		}
+		
+/* BENL & BEFR & BEEN */
+	
+	#asFooterComInfo #asFooterPayment img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPayment {
+		width: 43% !important;
+		height: 23px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-tab-ls.png') no-repeat right top !important;
+		}
+		
+/* NL */
+		
+	#asFooterComInfo #asFooterPaymentNL img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentNL {
+		width: 43% !important;
+		height: 23px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-tab-ls-NL.png') no-repeat right top !important;
+		}
+		
+/* FR */
+		
+	#asFooterComInfo #asFooterPaymentFR img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentFR {
+		width: 43% !important;
+		height: 23px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-tab-ls-FR.png') no-repeat right top !important;
+		}
+		
+/* LU */
+		
+	#asFooterComInfo #asFooterPaymentLU img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentLU {
+		width: 43% !important;
+		height: 23px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-tab-ls-LU.png') no-repeat right top !important;
+		}
+
+/* UK */
+		
+	#asFooterComInfo #asFooterPaymentUK img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentUK {
+		width: 43% !important;
+		height: 23px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-tab-ls-UK.png') no-repeat right top !important;
+		}
+
+/* DE */
+		
+	#asFooterComInfo #asFooterPaymentDE img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentDE {
+		width: 43% !important;
+		height: 23px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-tab-ls-DE.png') no-repeat right top !important;
+		}
+
+/* ROW 4 ADDRESS */
+
+	#asFooterAddress {
+		width: 100% !important;	
+		}
+
+	#asFooter #asFooterAddress address {
+		float: none !important;
+		text-align: center;
+		}
+		
+	#asFooter #asFooterAddressMob {
+		display: none !important;		
+		}
+
+/* Styles */
+}
+
+/* Tablet (portrait) ----------- */
+@media only screen 
+and (min-width : 768px) 
+and (max-width : 1024px) 
+and (orientation : portrait) {
+
+/* ROW 1 LOGO + LINKS */
+
+	#asFooterLinks #asFooterLogoAs {
+		display: none;
+		}
+		
+	#asFooterLinks ul li {
+		padding: 0;
+		margin: 0 0 8px 0;
+		}
+		
+	#asFooterLinks #asFooterCol1 {
+		width: 38% !important;
+		margin: 0 !important;
+		}
+	
+	#asFooterLinks #asFooterCol2 {
+		width: 38% !important;
+		margin: 0 !important;
+		}
+
+	#asFooterLinks #asFooterSocial {
+		width: 24% !important;
+		}
+		
+	#asFooterLinks #asFooterSocial #asFooterSocialIcons a {
+		display: inline-block;
+		margin: 11px 0 0 7px !important;
+		}
+
+/* ROW 2 SEO + BE COM */
+		
+	#asFooterSeo #asFooterSeoText {
+		width: 82% !important;
+		}
+
+	#asFooterSeo #asFooterSeoText p {
+		margin-top: 0px !important;
+		line-height: 16px;
+		}
+		
+	#asFooterSeo #asFooterLogoBeCom {
+		margin: 5px 0 0 0;
+		width: 18% !important;
+		}
+		
+/* ROW 3 CONDITIONS + PAYMENTS */
+		
+	#asFooterComInfo {
+		clear: both;
+		padding: 0 !important;
+		}
+		
+	#asFooterComInfo #asFooterConditions {
+		width: 100% !important;
+		float: none !important;
+		text-align: center;
+		}
+		
+	#asFooterComInfo #asFooterConditions ul {
+		float: none !important;
+		display: inline-block;
+		margin: 0 auto !important;
+		}
+		
+	#asFooterComInfo #asFooterConditions ul li {
+		margin: 0 50px 0 0 !important;
+		padding: 0 !important;
+		}
+		
+	#asFooterComInfo #asFooterConditions ul li:last-child {
+		margin: 0 !important;
+		}
+		
+    #asFooterComInfo #asFooterConditionsMob {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPayment img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentNL img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentFR img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentLU img {
+		display: none;
+		}
+
+	#asFooterComInfo #asFooterPaymentUK img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentDE img {
+		display: none;
+		}
+		
+/* ROW 4 ADDRESS */
+
+	#asFooter #asFooterAddress {
+		width: 100% !important;	
+		}
+
+	#asFooter #asFooterAddress address {
+		margin: 10px 0;	
+		float: none !important;
+		text-align: center;
+		}
+		
+	#asFooter #asFooterAddressMob {
+		display: none !important;		
+		}
+
+/* Styles */
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen 
+and (min-width : 321px)
+and (max-width : 767px) {
+	
+	#asFooterComInfo {
+		padding: 0 !important;
+		margin: 0 !important;
+		}
+		
+	#asFooterLinks {
+		width: 100% !important;
+		margin: 0 !important;
+		padding: 0 0 10px 0 !important; 
+		}
+
+	#asFooterLinks #asFooterLogoAs {
+		display: none;		
+		}
+		
+	#asFooterLinks #asFooterCol1 {
+		width: 50% !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+		
+	#asFooterLinks #asFooterCol2 {
+		width: 50% !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+		
+	 i[class*="icon-angle-right"] {
+		display: none !important;
+		}
+
+	#asFooterLinks #asFooterCol1 ul li {
+		margin: 0 0 13px 0;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-arrow-right.png') no-repeat left top !important;
+		padding: 0 0 0 7px; 
+		}
+	
+	#asFooterLinks #asFooterCol2 ul li {
+		margin: 0 0 13px 0;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-arrow-right.png') no-repeat no-repeat left top !important;
+		padding: 0 0 0 7px; 
+		}
+		
+	#asFooterLinks #asFooterCol1 ul li:last-child {
+		margin: 0 0 10px 0 !important;
+		}
+	
+	#asFooterLinks #asFooterCol2 ul li:last-child {
+		margin: 0 0 10px 0 !important;
+		}
+		
+	#asFooterLinks #asFooterCol1 ul li a {
+		line-height: 3px !important;
+		}
+	
+	#asFooterLinks #asFooterCol2 ul li a {
+		line-height: 3px !important;
+		}
+
+	#asFooterLinks #asFooterSocial {
+		width: 100% !important;
+		float: none;
+		padding: 0 !important; 
+		margin: 0 !important;
+		}
+		
+	#asFooterLinks #asFooterSocial p {
+		display: none;
+		}
+		
+	#asFooterLinks #asFooterSocial #asFooterSocialIcons a {
+		margin: 10px 0 0 8px !important;
+		}
+		
+	#asFooterLinks #asFooterSocial #asFooterSocialIcons a:first-child {
+		margin-left: 2px !important;
+		}
+		
+	#asFooterLinks #asFooterSocial #asFooterSocialIcons a:last-child {
+		margin-right: 0 !important;
+		}
+
+	#asFooterSeo {
+		display: none;
+		}
+		
+	#asFooterComInfo {
+		padding: 0 !important;
+		margin: 0 !important;
+		}
+			
+    #asFooterComInfo #asFooterConditions {
+		display: none;
+		}
+		
+    #asFooterComInfo #asFooterConditionsMob {
+		margin: 14px 0 0 0 !important;
+		}
+		
+	#asFooterConditionsMob ul#conditionsLeft {
+		width: 50% !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		float: left;
+		}
+		
+	#asFooterConditionsMob ul#conditionsRight {
+		width: 50% !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		float: left;
+		}
+		
+	#asFooterConditionsMob ul#conditionsLeft li {
+		margin: 0 0 13px 0;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-arrow-right.png') no-repeat left top !important;
+		padding: 0 0 0 7px; 
+		}
+	
+	#asFooterConditionsMob ul#conditionsRight li {
+		margin: 0 0 13px 0;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-arrow-right.png') no-repeat no-repeat left top !important;
+		padding: 0 0 0 7px; 
+		}
+		
+	#asFooterConditionsMob ul#conditionsLeft li:last-child {
+		margin: 0 0 13px 0 !important;
+		}
+	
+	#asFooterConditionsMob ul#conditionsRight li:last-child {
+		margin: 0 0 13px 0 !important;
+		}
+		
+	#asFooterConditionsMob ul#conditionsLeft li a {
+		font-size: 14px;
+		line-height: 3px !important;
+		}
+	
+	#asFooterConditionsMob ul#conditionsRight li a {
+		font-size: 14px;
+		line-height: 3px !important;
+		}
+		
+/* BENL & BEFR */
+		
+	#asFooterComInfo #asFooterPayment img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPayment {
+		width: 100% !important;
+		float: none;
+		height: 27px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-mob.png') no-repeat right top !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+
+/* NL */
+		
+	#asFooterComInfo #asFooterPaymentNL img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentNL {
+		width: 100% !important;
+		float: none;
+		height: 27px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-mob-NL.png') no-repeat right top !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+		
+/* FR */
+		
+	#asFooterComInfo #asFooterPaymentFR img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentFR {
+		width: 100% !important;
+		float: none;
+		height: 27px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-mob-FR.png') no-repeat right top !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+		
+/* LU */
+		
+	#asFooterComInfo #asFooterPaymentLU img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentLU {
+		width: 100% !important;
+		float: none;
+		height: 27px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-mob-LU.png') no-repeat right top !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+
+/* UK */
+		
+	#asFooterComInfo #asFooterPaymentUK img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentUK {
+		width: 100% !important;
+		float: none;
+		height: 27px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-mob-UK.png') no-repeat right top !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+
+/* DE */
+		
+	#asFooterComInfo #asFooterPaymentDE img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentDE {
+		width: 100% !important;
+		float: none;
+		height: 27px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-mob-DE.png') no-repeat right top !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+
+
+	#asFooter #asFooterAddress {
+		display: none;		
+		}
+		
+	#asFooter #asFooterAddressMob address {
+		font-size: 12px;
+		line-height: 16px;
+		color: #e2dbd3;
+		text-align: center;
+		margin: 5px 0 0 0;	
+		}
+
+/* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen 
+and (max-width : 320px) {
+	
+	#asFooterComInfo {
+		padding: 0 !important;
+		margin: 0 !important;
+		}
+		
+	#asFooterLinks {
+		width: 100% !important;
+		margin: 0 !important;
+		padding: 0 0 10px 0 !important; 
+		}
+
+	#asFooterLinks #asFooterLogoAs {
+		display: none;		
+		}
+		
+	#asFooterLinks #asFooterCol1 {
+		width: 50% !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+		
+	#asFooterLinks #asFooterCol2 {
+		width: 50% !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+		
+	 i[class*="icon-angle-right"] {
+		display: none !important;
+		}
+
+	#asFooterLinks #asFooterCol1 ul li {
+		margin: 0 0 13px 0;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-arrow-right.png') no-repeat left top !important;
+		padding: 0 0 0 7px; 
+		}
+	
+	#asFooterLinks #asFooterCol2 ul li {
+		margin: 0 0 13px 0;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-arrow-right.png') no-repeat no-repeat left top !important;
+		padding: 0 0 0 7px; 
+		}
+		
+	#asFooterLinks #asFooterCol1 ul li:last-child {
+		margin: 0 0 10px 0 !important;
+		}
+	
+	#asFooterLinks #asFooterCol2 ul li:last-child {
+		margin: 0 0 10px 0 !important;
+		}
+		
+	#asFooterLinks #asFooterCol1 ul li a {
+		line-height: 3px !important;
+		}
+	
+	#asFooterLinks #asFooterCol2 ul li a {
+		line-height: 3px !important;
+		}
+
+	#asFooterLinks #asFooterSocial {
+		width: 100% !important;
+		float: none;
+		padding: 0 !important; 
+		margin: 0 !important;
+		}
+		
+	#asFooterLinks #asFooterSocial p {
+		display: none;
+		}
+		
+	#asFooterLinks #asFooterSocial #asFooterSocialIcons a {
+		margin: 10px 0 0 8px !important;
+		}
+		
+	#asFooterLinks #asFooterSocial #asFooterSocialIcons a:first-child {
+		margin-left: 2px !important;
+		}
+		
+	#asFooterLinks #asFooterSocial #asFooterSocialIcons a:last-child {
+		margin-right: 0 !important;
+		}
+
+	#asFooterSeo {
+		display: none;
+		}
+		
+	#asFooterComInfo {
+		padding: 0 !important;
+		margin: 0 !important;
+		}
+			
+    #asFooterComInfo #asFooterConditions {
+		display: none;
+		}
+		
+    #asFooterComInfo #asFooterConditionsMob {
+		margin: 14px 0 0 0 !important;
+		}
+		
+	#asFooterConditionsMob ul#conditionsLeft {
+		width: 50% !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		float: left;
+		}
+		
+	#asFooterConditionsMob ul#conditionsRight {
+		width: 50% !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		float: left;
+		}
+		
+	#asFooterConditionsMob ul#conditionsLeft li {
+		margin: 0 0 13px 0;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-arrow-right.png') no-repeat left top !important;
+		padding: 0 0 0 7px; 
+		}
+	
+	#asFooterConditionsMob ul#conditionsRight li {
+		margin: 0 0 13px 0;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-arrow-right.png') no-repeat no-repeat left top !important;
+		padding: 0 0 0 7px; 
+		}
+		
+	#asFooterConditionsMob ul#conditionsLeft li:last-child {
+		margin: 0 0 13px 0 !important;
+		}
+	
+	#asFooterConditionsMob ul#conditionsRight li:last-child {
+		margin: 0 0 13px 0 !important;
+		}
+		
+	#asFooterConditionsMob ul#conditionsLeft li a {
+		font-size: 14px;
+		line-height: 3px !important;
+		}
+	
+	#asFooterConditionsMob ul#conditionsRight li a {
+		font-size: 14px;
+		line-height: 3px !important;
+		}
+		
+/* BENL & BEFR */
+		
+	#asFooterComInfo #asFooterPayment img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPayment {
+		width: 100% !important;
+		float: none;
+		height: 27px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-mob.png') no-repeat right top !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+
+/* NL */
+		
+	#asFooterComInfo #asFooterPaymentNL img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentNL {
+		width: 100% !important;
+		float: none;
+		height: 27px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-mob-NL.png') no-repeat right top !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+		
+/* FR */
+		
+	#asFooterComInfo #asFooterPaymentFR img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentFR {
+		width: 100% !important;
+		float: none;
+		height: 27px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-mob-FR.png') no-repeat right top !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+		
+/* LU */
+		
+	#asFooterComInfo #asFooterPaymentLU img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentLU {
+		width: 100% !important;
+		float: none;
+		height: 27px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-mob-LU.png') no-repeat right top !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+
+/* UK */
+		
+	#asFooterComInfo #asFooterPaymentUK img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentUK {
+		width: 100% !important;
+		float: none;
+		height: 27px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-mob-UK.png') no-repeat right top !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+
+/* DE */
+		
+	#asFooterComInfo #asFooterPaymentDE img {
+		display: none;
+		}
+		
+	#asFooterComInfo #asFooterPaymentDE {
+		width: 100% !important;
+		float: none;
+		height: 27px;
+		background: transparent url('https://static.asadventure.com/includes/site/footer/img/as-footer-logo-betaling-mob-DE.png') no-repeat right top !important;
+		margin: 0 !important;
+		padding: 0 !important;
+		}
+
+		
+	#asFooter #asFooterAddress {
+		display: none;		
+		}
+		
+	#asFooter #asFooterAddressMob address {
+		font-size: 12px;
+		line-height: 16px;
+		color: #e2dbd3;
+		text-align: center;
+		margin: 5px 0 0 0;	
+		}
+}
+
+/* DEFAULT DESKTOP */
+
+/* ROW 1 LOGO + LINKS */
+
+#asFooterLinks {
+	box-shadow: 0 4px 2px -2px #363636;
+	padding: 0 0 16px 0;
+	}
+
+#asFooterLinks .icon-angle-right {
+	line-height: 20px;
+	display: inline-block;
+	margin: 0 0 3px 0;	
+	}
+	
+#asFooterLinks #asFooterLogoAs {
+	width: 25%;
+	float: left;
+	margin: 0;
+	padding: 0;
+	}
+	
+#asFooterLinks ul li a {
+	font-size: 14px;
+	line-height: 18px;
+	}
+	
+#asFooterLinks #asFooterCol1 {
+	width: 25%;
+	float: left;
+	margin: 7px 0 0 0;
+	padding: 0;
+	}
+	
+#asFooterLinks #asFooterCol1 ul {
+	margin: 0;
+	}
+
+#asFooterLinks #asFooterCol2 {
+	width: 25%;
+	float: left;
+	margin: 7px 0 0 0;
+	padding: 0;
+	}
+	
+#asFooterLinks #asFooterCol2 ul {
+	margin: 0px;
+	}
+
+#asFooterLinks #asFooterSocial {
+	width: 25%;
+	float: left;
+	margin: 10px 0 0 0;
+	padding: 0;
+	}
+	
+#asFooterLinks #asFooterSocial p {
+	font: 14px/18px 'Open Sans', sans-serif;
+	color: #e2dbd3;
+	margin: 0 0 0 6px;
+	}
+	
+#asFooterLinks #asFooterSocial #asFooterSocialIcons a {
+	font-size: 37px;
+	color: #e2dbd3;
+	display: inline-block;
+	margin: 10px 0 0 6px;
+	}
+	
+#asFooterLinks #asFooterSocial #asFooterSocialIcons a:link {
+	color: #e2dbd3;
+	}
+	
+#asFooterLinks #asFooterSocial #asFooterSocialIcons a:visited {
+	color: #e2dbd3;
+	}
+	
+#asFooterLinks #asFooterSocial #asFooterSocialIcons a:hover {
+	color: #ffffff;
+	}
+	
+#asFooterLinks #asFooterSocial #asFooterSocialIcons a:active {
+	color: #ffffff;
+	}
+
+/*ROW 2 SEO + BE COM*/
+
+#asFooterSeo {
+	clear: both;
+	padding: 10px 0 12px 0;
+	}
+
+#asFooterSeo #asFooterSeoText {
+	width: 75%;
+	float: left;
+	}
+	
+#asFooterSeo #asFooterSeoText p {
+	margin: 10px 0 0 0;
+	font: 13px/18px 'Open Sans', sans-serif;
+	color: #9da9b8;
+	}
+	
+#asFooterSeo #asFooterLogoBeCom {
+	width: 25%;
+	float: left;
+	}
+	
+#asFooterSeo #asFooterLogoBeCom img {
+	float: right;
+	}
+
+/* ROW 3 CONDITIONS + PAYMENTS */
+
+#asFooterComInfo {
+	clear: both;
+	padding: 2px 0 4px 0;
+	border-top: 1px solid #696969;
+	border-bottom: 1px solid #696969;
+	}
+
+#asFooterComInfo #asFooterConditions {
+	width: 50%;
+	float: left;
+	margin: 1px 0 0 0;
+	}
+	
+#asFooterComInfo #asFooterConditions ul  {
+	float: left;
+	margin: 0;
+	}
+	
+#asFooterComInfo #asFooterConditions ul li {
+	float: left;
+	margin: 0 18px 0 0;
+	}
+	
+#asFooterComInfo #asFooterConditions ul li a {
+	font-size: 14px;
+	line-height: 18px;
+	}
+	
+#asFooterComInfo #asFooterConditions ul li a:link {
+	color: #e2dbd3;
+	}
+
+#asFooterComInfo #asFooterConditions ul li a:visited {
+	color: #e2dbd3;
+	}
+
+#asFooterComInfo #asFooterConditions ul li a:hover {
+	color: #ffffff;
+	text-decoration: underline;
+	}
+	
+#asFooterComInfo #asFooterConditions ul li a:active {
+	color: #ffffff;
+	text-decoration: underline;
+	}
+	
+/* BENL & BEFR */
+
+#asFooterComInfo #asFooterPayment {
+	width: 50%;
+	float: right;
+	}
+
+#asFooterComInfo #asFooterPayment img {
+	float: right;
+	margin-top: 2px;
+	}
+	
+/* NL */
+	
+#asFooterComInfo #asFooterPaymentNL {
+	width: 50%;
+	float: right;
+	}
+
+#asFooterComInfo #asFooterPaymentNL img {
+	float: right;
+	margin-top: 2px;	
+	}
+	
+/* FR */
+
+#asFooterComInfo #asFooterPaymentFR {
+	width: 50%;
+	float: right;
+	}
+
+#asFooterComInfo #asFooterPaymentFR img {
+	float: right;
+	margin-top: 2px;	
+	}
+	
+/* LU */
+
+#asFooterComInfo #asFooterPaymentLU {
+	width: 50%;
+	float: right;
+	}
+
+#asFooterComInfo #asFooterPaymentLU img {
+	float: right;
+	margin-top: 2px;	
+	}
+
+/* UK */
+
+#asFooterComInfo #asFooterPaymentUK {
+	width: 50%;
+	float: right;
+	}
+
+#asFooterComInfo #asFooterPaymentUK img {
+	float: right;
+	margin-top: 2px;
+	}
+
+/* DE */
+
+#asFooterComInfo #asFooterPaymentDE {
+	width: 50%;
+	float: right;
+	}
+
+#asFooterComInfo #asFooterPaymentDE img {
+	float: right;
+	margin-top: 2px;	
+	}
+
+
+/* ROW 4 ADDRESS */
+
+#asFooterAddress {
+	clear: both;	
+	}
+	
+#asFooterAddress address{
+	float: right;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+	line-height: 17px;
+	color: #e2dbd3;
+	font-weight: 400;
+	margin: 10px 0;	
+	}
+	
+.clearfix:after {
+   content: " "; /* Older browser do not support empty content */
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+	}
