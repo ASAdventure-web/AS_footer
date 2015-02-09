@@ -34,7 +34,6 @@
                                 background: transparent !important;
                                 position: static !important;
                             }
-                            #zenbox_tab img { display: none; }
                         </style>
                     <script type="text/javascript">
                     if (typeof(Zenbox) !== "undefined") {
@@ -42,13 +41,11 @@
                             dropboxID: "20308992",
                             url: "https://asadventure.zendesk.com",
                             tabTooltip: "Support",
+                            tabColor:    "black",
+                            tabPosition: "Right",
+                            hide_tab:   true,
                         });
                     }
-
-                function changeLabeltext() {
-                    document.getElementById("subject").value = "new text value"; 
-                }
-
                     </script>
 
                 <!-- END CUSTOM -->
