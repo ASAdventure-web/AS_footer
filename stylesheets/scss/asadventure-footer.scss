@@ -1,0 +1,73 @@
+@import "_breakpoint";
+
+#as-footer {
+
+    margin-left: 30px;
+    width: 100%;
+    .footer-logo {
+        width: 120px;
+        height: auto;
+        position: relative;
+        top: 20px;
+        @include breakpoint (baby-bear) {
+            display: block;
+            margin: 0 auto;
+            top: 0;
+        }
+    }
+
+    .footer-social-icons-container {
+        .footer-social-link{
+            display: inline;
+            color : #e2dbd3;
+            font-size: 35px;
+            margin-right: 5px;
+            &:hover { color: #fff; }
+        }
+    }
+
+    .footer-ul-container {
+        margin-top: 10px;
+            .footer-social-text { color: #e2dbd3; }
+        .footer-link {
+            list-style: none;
+            line-height: 25px;
+                    @include breakpoint( baby-bear) { line-height: 35px; }
+            a { color: #e2dbd3;
+                    @include breakpoint( baby-bear) { font-size: 18px; }
+                &:hover { color: #fff; } }
+            &:before {
+              content: '\f105';
+              font-family: FontAwesome;
+              display: inline-block;
+              width: 1.2em;
+              margin-left: -1.2em;
+              color: #e2dbd3;
+          }
+      }
+
+      &.bottom-nav { display: block;
+        .footer-link {
+            display: inline-block;
+            margin-right: 25px;
+            &:before { list-style: none; content: none; }
+            a { font-size: 12px; }
+        }
+      }
+    }
+
+    .blog-icon {
+        background: url(http://staticstaging.asadventure.com/includes/site/footer/img/blog-icon.svg) no-repeat;
+        width: 35px;
+        height: 35px;
+        position: relative;
+        top: -2;
+        display: block;
+        float: left;
+        margin-right: 5px;
+        &:hover {  background: url(http://staticstaging.asadventure.com/includes/site/footer/img/blog-icon-hover.svg) no-repeat; }
+    }
+
+
+
+}
