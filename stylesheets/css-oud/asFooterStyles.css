@@ -886,6 +886,22 @@ and (max-width : 320px) {
 #asFooterLinks #asFooterSocial #asFooterSocialIcons a:active {
 	color: #ffffff;
 	}
+	
+#as-footer .blog-icon {
+    background: url(https://static.asadventure.com/includes/site/footer/img/blog-icon.svg) no-repeat;
+    width: 31px;
+    height: 37px;
+    position: relative;
+    top: -2;
+    display: block;
+    float: left;
+    margin-right: 5px
+}
+
+#as-footer .blog-icon:hover {
+    background: url(https://static.asadventure.com/includes/site/footer/img/blog-icon-hover.svg) no-repeat
+}
+
 
 /*ROW 2 SEO + BE COM*/
 
