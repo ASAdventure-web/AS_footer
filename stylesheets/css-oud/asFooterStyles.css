@@ -887,7 +887,7 @@ and (max-width : 320px) {
 	color: #ffffff;
 	}
 	
-#as-footer .blog-icon {
+.blog-icon {
     background: url(https://static.asadventure.com/includes/site/footer/img/blog-icon.svg) no-repeat;
     width: 31px;
     height: 37px;
@@ -898,7 +898,7 @@ and (max-width : 320px) {
     margin-right: 5px
 }
 
-#as-footer .blog-icon:hover {
+.blog-icon:hover {
     background: url(https://static.asadventure.com/includes/site/footer/img/blog-icon-hover.svg) no-repeat
 }
 
